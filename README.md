@@ -31,15 +31,7 @@
 - 👋 Learning React and back-end
 - 👀 All I'm interested in Coding.
 - 🌱 Utilisting my enery in Coding 😆 and debugging my code. 
-<!-- - 💞️ I’m looking to collaborate on ... -->
-<!-- ![crop button](https://user-images.githubusercontent.com/85267939/147390527-3d9f09e0-c37c-4e26-9fe6-4060bf89fd81.png) -->
+- 📫 Reach me via 👉🏼[<img height="40" src="https://user-images.githubusercontent.com/85267939/147390527-3d9f09e0-c37c-4e26-9fe6-4060bf89fd81.png" >](https://www.linkedin.com/in/devender-verma-887254221/)
 
-- 📫 Reach me via  [<img height="60" paddint-top="2rem" display="inline" src="https://user-images.githubusercontent.com/85267939/147390527-3d9f09e0-c37c-4e26-9fe6-4060bf89fd81.png" >](https://www.linkedin.com/in/devender-verma-887254221/)
-<!-- -  -->
-<!-- - ![button](https://user-images.githubusercontent.com/85267939/147390371-8efcc39c-266f-49a9-ba4a-ec7c64cbb9e9.png)  -->
-<!-- <a href="https://user-images.githubusercontent.com/85267939/147390371-8efcc39c-266f-49a9-ba4a-ec7c64cbb9e9.png"> <img alt="Devender LinkedIn" src="https://www.linkedin.com/in/devender-verma-887254221/"> Dev </a> -->
-<!---
-Crishpy-Coffe/Crishpy-Coffe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
-![poster](https://user-images.githubusercontent.com/85267939/147386418-c099bac0-291e-4d41-a487-752864056e75.png)
+
