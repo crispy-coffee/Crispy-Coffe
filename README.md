@@ -22,8 +22,8 @@
 
 <div align="center">
   
-  ![Visitor Count](https://profile-counter.glitch.me/crishpy-coffe/count.svg)
-  
+<!--   ![Visitor Count](https://profile-counter.glitch.me/crishpy-coffe/count.svg) -->
+  ![](https://komarev.com/ghpvc/?username=crishpy-coffe&label=PROFILE+VIEWS&color=red)
  </div>
  
  <hr height=".1px">
@@ -60,7 +60,7 @@
     
    <p align="center">
       <br />
-      ![](https://komarev.com/ghpvc/?username=crishpy-coffe&label=PROFILE+VIEWS)
+
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src="https://user-images.githubusercontent.com/85267939/147403206-81d6abb0-b499-47e7-b1db-575fac65a5f9.png" alt="html" style="vertical-align:top; margin:4px">    
   <img src="https://user-images.githubusercontent.com/85267939/147403222-87e282f0-7129-43b2-89ad-dcd6de171ff5.png" alt="js" style="vertical-align:top; margin:4px">
