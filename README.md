@@ -37,6 +37,16 @@
 - 👀 All I'm interested in Coding.
 - 🌱 Utilisting my enery in Coding 😆 and debugging 🪲 my code. 
 - 📫 Reach me via 👉🏼[<img height="40" src="https://user-images.githubusercontent.com/85267939/147390527-3d9f09e0-c37c-4e26-9fe6-4060bf89fd81.png" >](https://www.linkedin.com/in/devender-verma-887254221/)
+- All About living life at its best.
+<hr>
+<p align="center" >
+<a href="https://github.com/crishpy-coffe/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=crishpy-coffe&&show_icons=true&theme=dracula"/>
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=crishpy-coffe&layout=compact&langs_count=8&theme=dracula"/>
+   
+<!--    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crishpy-coffe&langs_count=8)](https://github.com/crishpy-coffe/github-readme-stats) -->
+  </a>
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crishpy-coffe&langs_count=8)](https://github.com/crishpy-coffe/github-readme-stats) -->
 
---->
+
 
