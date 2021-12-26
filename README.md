@@ -35,7 +35,7 @@
  
 - 👋 Learning React and back-end
 - 👀 All I'm interested in Coding.
-- 🌱 Utilisting my enery in Coding 😆 and debugging 🪲 my code. 
+- 🌱 <i>Utilisting my enery in Coding 😆 and debugging 🪲 my code. </i>
 - 📫 Reach me via 👉🏼[<img height="40" src="https://user-images.githubusercontent.com/85267939/147390527-3d9f09e0-c37c-4e26-9fe6-4060bf89fd81.png" >](https://www.linkedin.com/in/devender-verma-887254221/)
 - 🎮 Love to play Games in free times but never get.
 - 💕 All About living life at its best.
