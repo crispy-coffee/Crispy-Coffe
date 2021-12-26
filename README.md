@@ -22,15 +22,20 @@
 
 <div align="center">
   
-
   ![Visitor Count](https://profile-counter.glitch.me/crishpy-coffe/count.svg)
   
  </div>
  
+ <hr height=".1px">
+ <img align="right" height="270px" width="450px" alt="GIF" src="https://user-images.githubusercontent.com/85267939/147401968-18347952-173d-41f1-b6fd-28dbfe95d605.gif" />
+<p align="center">
+   <h3>I am an IT student at VIPS and currently utilizing my time to sharpen and develop new skills 🚢 .</h3>
+</p>
+
  
 - 👋 Learning React and back-end
 - 👀 All I'm interested in Coding.
-- 🌱 Utilisting my enery in Coding 😆 and debugging my code. 
+- 🌱 Utilisting my enery in Coding 😆 and debugging 🪲 my code. 
 - 📫 Reach me via 👉🏼[<img height="40" src="https://user-images.githubusercontent.com/85267939/147390527-3d9f09e0-c37c-4e26-9fe6-4060bf89fd81.png" >](https://www.linkedin.com/in/devender-verma-887254221/)
 
 --->
