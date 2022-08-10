@@ -11,8 +11,8 @@
    <a href="https://www.linkedin.com/in/devender-verma-887254221/"><img height="40" src="https://user-images.githubusercontent.com/85267939/147388856-95b99a6f-ca36-4162-a536-dc8db5e092c2.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/crishpy_coffe/"><img height="30" src="https://user-images.githubusercontent.com/85267939/147388861-bc034158-ce58-4d67-8b91-ba8532479fc7.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/crishpy_coffe"><img height="30" src="https://user-images.githubusercontent.com/85267939/147388859-4f6c6873-8488-45ed-86bd-0a608975e4ed.png"></a>&nbsp;&nbsp;
-<a href="https://www.reddit.com/user/Let-me-code"><img height="35" src="https://user-images.githubusercontent.com/85267939/147388858-463ed7c5-716a-4d12-a711-450a72f5f543.png"></a>&nbsp;&nbsp;
-
+<!-- <a href="https://www.reddit.com/user/Let-me-code"><img height="35" src="https://user-images.githubusercontent.com/85267939/147388858-463ed7c5-716a-4d12-a711-450a72f5f543.png"></a>&nbsp;&nbsp;
+-->
 
 
 <div align="center">
